@@ -1,6 +1,6 @@
 {
   "name": "javajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Java program launcher for NodeJS servers",
   "main": "main.js",
   "scripts": {
